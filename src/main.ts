@@ -1,5 +1,4 @@
 import { NestFactory } from "@nestjs/core";
-import { HelloController } from "./hello.controller";
 import { HelloModule } from "./hello.module";
 
 //* NestJS를 시작시키는 함수
